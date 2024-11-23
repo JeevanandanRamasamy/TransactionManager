@@ -48,6 +48,6 @@
 3. **Run the Application**:
    Once compiled, run the application with:
    ```bash
-   java Main
+   java TransactionManagerMain
    ```
    Ensure that any required libraries and dependencies are correctly set up in your environment.
